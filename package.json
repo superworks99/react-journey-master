@@ -1,0 +1,33 @@
+{
+  "name": "react-flash-cards-pt",
+  "version": "1.0.0",
+  "description": "A Flash Card App built with React.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sierra-henderson/react-flash-cards-pt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sierra-henderson/react-flash-cards-pt/issues"
+  },
+  "homepage": "https://github.com/sierra-henderson/react-flash-cards-pt#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/plugin-transform-react-jsx": "^7.10.1",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
